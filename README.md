@@ -1,16 +1,19 @@
-# movies
+# Test Devontic Flutter
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+## Stack Usado
 
-This project is a starting point for a Flutter application.
+- Flutter SDK
+- [Gestion de Estado usando provider](https://pub.dev/packages/provider)
 
-A few resources to get you started if this is your first Flutter project:
+- ¿Cómo decidió las opciones técnicas y arquitectónicas utilizadas como parte de su solución?
+  Al ser una app sencilla opte por lo mas basico que es usar provider para la gestion de estados y la comunicacion con la UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ¿Hay alguna mejora que pueda hacer en su envío?
+  Si. he agregado Continuos integration y continuos delivery usando GITHUB ACTIONS
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ¿Qué haría de manera diferente si se le asignara más tiempo?
+  Aunque estrucutre el codigo de manera que se pueda entender la forma como esta organizado pienso que quizas agregar test unitarios pudiese ser factible.
+
+[OBTENER RELEASE EN ANDROID PARA PRUEBAS](https://github.com/NestorDevs/test-devontic)
