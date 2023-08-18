@@ -16,4 +16,4 @@ A Flutter project.
 - ¿Qué haría de manera diferente si se le asignara más tiempo?
   Aunque estrucutre el codigo de manera que se pueda entender la forma como esta organizado pienso que quizas agregar test unitarios pudiese ser factible.
 
-[OBTENER RELEASE EN ANDROID PARA PRUEBAS](https://github.com/NestorDevs/test-devontic)
+[OBTENER RELEASE EN ANDROID PARA PRUEBAS](https://github.com/NestorDevs/test-devontic/releases)
